@@ -32,7 +32,7 @@ async def predict_workout(user_data:User):
     user_data = user_data.model_dump()
     user_df = pd.DataFrame([user_data])
     prediction = classifier.predict(user_df)[0]
-    print(f'chosen plan {prediction} for {user_data['Name']}')
+    print(f'chosen plan {prediction}')
 
     if prediction == 1.0:
         plan = pd.read_csv("./plans/plan1.csv")

@@ -1,7 +1,6 @@
 from pydantic import BaseModel
 
 class User(BaseModel):
-    Name: str
     Age: int
     Gender: str
     Height_cm: float
