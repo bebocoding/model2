@@ -38,10 +38,9 @@ async def predict_workout(user_data:User):
         plan = pd.read_csv("./plans/plan1.csv")
     elif prediction == 2.0:
         plan = pd.read_csv("./plans/plan2.csv")
-    json_plan = plan.to_json(orient="split") # contains escape literals
-    exercise_data = json.loads(json_plan) # clean dictionary
+    plan_dict = {day: plan[day].tolist() for day in plan.columns}
 
-    return exercise_data
+    return plan_dict
 
 
 
