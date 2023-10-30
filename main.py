@@ -28,7 +28,7 @@ async def get_name(user_name):
 
 # using model for prediction
 @app.post('/predict')
-async def predict_workout(user_data:User):
+async def predict_plan(user_data:User):
     user_data = user_data.model_dump()
     user_df = pd.DataFrame([user_data])
     prediction = classifier.predict(user_df)[0]
