@@ -1,18 +1,18 @@
 day1,day2,day3,day4,day5
-[215 'Ab bicycle'],[135 'Hanging toes-to-bar'],[135 'Hanging toes-to-bar'],[351 'Standing cable crunch'],[101 'Elbow-to-knee crunch']
-[61 'Hip Circles (Prone)'],[236 'Clam'],[76 'Hip Circles (Prone)'],[61 'Hip Circles (Prone)'],[235 'Standing Hip Circles']
-[251 'Groiners'],[130 'Thigh adductor'],[130 'Thigh adductor'],[251 'Groiners'],[251 'Groiners']
-[50 'EZ-bar spider curl'],[312 'Alternate Hammer Curl'],[234 'Barbell Curls Lying Against An Incline'],[290 'Standing concentration curl'],[9 'Incline Hammer Curls']
-[261 'Seated Calf Raise'],[151 'Standing Calf Raises'],[151 'Standing Calf Raises'],[383 'Calf Press'],[383 'Calf Press']
-[188 'Wide-grip bench press'],[280 'Incline cable chest press'],[188 'Wide-grip bench press'],[414 'Straight-arm dumbbell pull-over'],[364 'Single-arm kettlebell row']
-[465 'Plate Pinch'],[40 'Seated finger curl'],[144 'Seated One-Arm Dumbbell Palms-Up Wrist Curl'],[39 'Standing behind-the-back wrist curl'],[239 'Dumbbell Lying Pronation']
-[273 'Step-up with knee raise'],[106 'Barbell Hip Thrust'],[324 'Kettlebell thruster'],[106 'Barbell Hip Thrust'],[233 'Single-leg glute bridge']
-[428 'Standing leg swing'],[201 'Lying Leg Curls'],[467 'Linear Acceleration Wall Drill'],[350 'Box jump'],[401 'Glute Ham Raise']
-[448 'Straight-Arm Pulldown'],[140 'Rocky Pull-Ups/Pulldowns'],[255 'V-bar pull-up'],[397 'Gironda Sternum Chins'],[285 'Rope climb']
-[294 'Deadlift with Bands'],[367 'Rack Pull with Bands'],[294 'Deadlift with Bands'],[367 'Rack Pull with Bands'],[246 'Hyperextensions With No Hyperextension Bench']
-[242 'Upside-down pull-up'],[363 'Single-arm cable seated row'],[195 'Alternating sit-through with crunch'],[242 'Upside-down pull-up'],[62 'Reverse-grip bent-over row']
-[44 'Lying Face Down Plate Neck Resistance'],[44 'Lying Face Down Plate Neck Resistance'],[44 'Lying Face Down Plate Neck Resistance'],[44 'Lying Face Down Plate Neck Resistance'],[44 'Lying Face Down Plate Neck Resistance']
-[223 'Dumbbell Lunges'],[21 'Tire flip'],[107 'Forward lunge'],[249 'Stairmaster'],[464 'Treadmill jogging']
-[329 'Alternating Kettlebell Press'],[438 'Dumbbell Raise'],[319 'Battle ropes'],[74 'Standing dumbbell shoulder press'],[133 'Single-arm incline rear delt raise']
-[277 'Standing dumbbell upright row'],[96 'Leverage Shrug'],[300 'Calf-Machine Shoulder Shrug'],[406 'Barbell shrug'],[406 'Barbell shrug']
-[417 'Band Skull Crusher'],[200 'Decline Close-Grip Bench To Skull Crusher'],[301 'Bench Press - Powerlifting'],[105 'Weighted bench dip'],[417 'Band Skull Crusher']
+Seated Flat Bench Leg Pull-In,Otis-Up,3/4 sit-up,Kneeling cable oblique crunch,Seated Flat Bench Leg Pull-In
+Hip Circles (Prone),Standing Hip Circles,Clam,Hip Circles (Prone),Clam
+Thigh adductor,Thigh adductor,Groiners,Groiners,Band Hip Adductions
+Overhead cable curl,Standing concentration curl,Alternate Hammer Curl,Single-arm dumbbell preacher curl,Preacher Hammer Dumbbell Curl
+Rocking Standing Calf Raise,Standing Calf Raises,Rocking Standing Calf Raise,Standing Calf Raises,Calf Press On The Leg Press Machine
+Decline Smith Press,Close-grip EZ-bar bench press,Hands-elevated push-up,Hammer Grip Incline DB Bench Press,Single-arm cable cross-over
+Palms-up wrist curl over bench,Seated Palms-Down Barbell Wrist Curl,Seated Two-Arm Palms-Up Low-Pulley Wrist Curl,Seated palms-down wrist curl,Seated Two-Arm Palms-Up Low-Pulley Wrist Curl
+Glute Kickback,Single-leg cable hip extension,Single-leg cable hip extension,Glute Kickback,Single-leg glute bridge
+Romanian Deadlift from Deficit,Sumo deadlift,Good Morning,Clean,Exercise ball leg curl
+Close-Grip Front Lat Pulldown,Rocky Pull-Ups/Pulldowns,Weighted pull-up,Muscle Up,Rope climb
+Superman,Axle Deadlift,Rack Pull with Bands,Deadlift with Bands,Back extension
+T-Bar Row with Handle,One-Arm Long Bar Row,Kettlebell alternating renegade row,Bent Over Barbell Row,T-Bar Row
+Lying Face Up Plate Neck Resistance,Lying Face Down Plate Neck Resistance,Lying Face Down Plate Neck Resistance,Lying Face Up Plate Neck Resistance,Lying Face Down Plate Neck Resistance
+Hang Clean,Tire flip,Trail Running/Walking,Treadmill jogging,Dumbbell sumo squat
+Seated rear delt fly,Single-arm bent-over cable rear delt fly,Single-arm cable front raise,Two-Arm Kettlebell Military Press,Alternating dumbbell front raise
+Kettlebell sumo deadlift high pull,Leverage Shrug,Standing dumbbell shrug,Standing dumbbell shrug,Standing dumbbell shrug
+Chain Handle Extension,Dumbbell skullcrusher,Single-arm dumbbell triceps extension,Tricep Dumbbell Kickback,One Arm Pronated Dumbbell Triceps Extension
