@@ -1,6 +1,7 @@
 # imports
 import uvicorn
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from Users import User
 import numpy as np
 import pandas as pd
@@ -13,6 +14,17 @@ subprocess.run(["python", "model.py"])
 # Create the app object
 
 app = FastAPI()
+
+# Set up CORS middleware
+origins = ["*"] 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 pickle_in = open("classifier.pkl",'rb')
 classifier = pickle.load(pickle_in)
 
